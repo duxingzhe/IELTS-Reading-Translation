@@ -15,6 +15,10 @@ When I asked several other blind study subjects to draw a spinning wheel, one pa
 
 To search out these answers, I created raised-line drawings of five different wheels, depicting spokes with lines that curved, bent, waved, dashed and extend beyond the perimeter to the wheel. I then asked eighteen blind volunteers to feel the wheels and assign of the following motions to each wheel: wobbling, spinning fast, spinning steadily, jerking or braking. My control group of eighteen sighted undergraduates from the University of Toronto.
 
+为了找到这些问题的答案，我花了五种不同的轮子，用的都是上升的线，使用了曲线，弯的，波浪线，点线和将线圈在轮子上的。接着，我开始询问18个盲人志愿者去感受轮子，并感受他们的运动状态：摇晃、旋转的快慢，稳定、颠簸程度、和制动情况。我的控制组是18个正常视力的多伦多大学本科生。
+
 All but one of the blind subjects assigned distinctive motions to each wheel. Most guessed that the curved spokes indicated that the wheel was spinning steadily; the wavy spokes, they thought, suggested that the wheel was wobbling; and the bent spokes were taken as a sign that the wheel was jerking. Subjects assumed that spokes extending beyond the wheel’s perimeter signified that the wheel had its brakes on and that dashed spokes indicated the wheel was spinning quickly.
+
+所有的盲人都将不同的轮子分类成不同的属性。许多人猜测曲线表示的轮子说明它运转稳定；波浪线表示轮子在摇晃；弯曲的轮子表示在颠簸。那种将线圈挂在轮子上的图像表示轮子正在制动，而点线则说明旋转速度非常快。
 
 In addition, the favoured description for the sighted was the favoured description for the blind in every instance. What is more, the consensus among the sighted was barely higher than that among the blind. Because motion devices are unfamiliar to the blind, the task I gave them involved some problem solving. Evidently, however, the blind not only figured out meanings for each line of motion, but as a group they generally came up with the same meaning at least as frequently as did sighted subjects.
