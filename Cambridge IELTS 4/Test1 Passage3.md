@@ -22,3 +22,9 @@ All but one of the blind subjects assigned distinctive motions to each wheel. Mo
 所有的盲人都将不同的轮子分类成不同的属性。许多人猜测曲线表示的轮子说明它运转稳定；波浪线表示轮子在摇晃；弯曲的轮子表示在颠簸。那种将线圈挂在轮子上的图像表示轮子正在制动，而点线则说明旋转速度非常快。
 
 In addition, the favoured description for the sighted was the favoured description for the blind in every instance. What is more, the consensus among the sighted was barely higher than that among the blind. Because motion devices are unfamiliar to the blind, the task I gave them involved some problem solving. Evidently, however, the blind not only figured out meanings for each line of motion, but as a group they generally came up with the same meaning at least as frequently as did sighted subjects.
+
+Part 2
+
+We have found that the blind understand other kinds of visual metaphors as well. One blind drew a picture of a child inside a heart – choosing that symbol, she said, to show that love surrounded the child. With Chang Hong Liu, a doctoral student from China, I have begun exploring how well blind people understand the symbolism behind shapes such as hearts that do not directly represent their meaning.
+
+We gave a list of twenty pairs of words to sighted subjects and asked them pick from each pair the term that best related to a square. For example, we asked: What goes with soft? A circle or a square? Which shape goes with hard?
