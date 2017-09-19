@@ -23,8 +23,15 @@ All but one of the blind subjects assigned distinctive motions to each wheel. Mo
 
 In addition, the favoured description for the sighted was the favoured description for the blind in every instance. What is more, the consensus among the sighted was barely higher than that among the blind. Because motion devices are unfamiliar to the blind, the task I gave them involved some problem solving. Evidently, however, the blind not only figured out meanings for each line of motion, but as a group they generally came up with the same meaning at least as frequently as did sighted subjects.
 
-Part 2
+另外，正常人的描述和盲人的描述跟每一个例子都是差不多的。更重要的是，正常人之间的共识和盲人之间的程度也是一样的。因为运动的东西对于盲人而言可能不太熟悉，我还让他们进行一些问题的求解。然而很明显，盲人不仅分辨出了运动线条的意义，同时他们分辨的频率和正常人没有多少区别。
 
+Part 2
 We have found that the blind understand other kinds of visual metaphors as well. One blind drew a picture of a child inside a heart – choosing that symbol, she said, to show that love surrounded the child. With Chang Hong Liu, a doctoral student from China, I have begun exploring how well blind people understand the symbolism behind shapes such as hearts that do not directly represent their meaning.
 
+我已经发现盲人理解其他可视化的标记。一个盲人画了一个图片，一个孩子被一颗心所包围——据他描述，选择的图形能够代表爱在他的周围。通过刘洪昌（音），这位来自中国的博士，我开始研究盲人是如何理解这种类似于心形具有抽象含义的图片的，而不是那种直接表示出意义的图片。
+
 We gave a list of twenty pairs of words to sighted subjects and asked them pick from each pair the term that best related to a square. For example, we asked: What goes with soft? A circle or a square? Which shape goes with hard?
+
+我们给了20对词汇给正常人，接着希望他们将每一个短语和最符合正方形里面的描述的内容放在一起。比如，我们问到：什么和柔软联系在一起？圆圈还是正方形？什么样的正方形和困难联系在一起？
+
+All our subjects deemed the circle soft and the square hard. A full 94% ascribed happy to the circle, instead of sad. But other pairs revealed less agreement: 79% matched fast to slow and weak to strong, respectively. And only 51% linked deep to circle and shallow to square. (See Fig. 2.) When we tested four totally blind volunteers using the same list, we found that their choices closely resembled those make by the sighted subjects. One man, who had been blind since birth, scored extremely well. He made only one match differing from the consensus, assigning ‘far’ to square and ‘near’ to circle. In fact, only a small majority of sighted subjects - 53% - had paired far and near to the opposite partners. Thus, we concluded that the blind interpret abstract shapes as sighted people do.
