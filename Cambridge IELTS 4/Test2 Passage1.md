@@ -37,3 +37,5 @@ So despite linguists’ best efforts, many languages will disappear over the nex
 所以尽管语言学者的努力，许多语言将会在这个世纪完全消失。但是在社区身份的提高，许多语言将会摆脱这种命运。“关键在于让人们去学习他们祖先的语言，同时学习主要语言，”Doug Whalen说，他是New Haven康乃迪克州的濒危语言组织的发起人和主席。“许多语言如果没有了大量的双语者将不会存活。”在新西兰，为孩子们提供的课程让语言的小事得到了减少。在过去的几年内，夏威夷实行了类似的计划，8000位Polynesian的语言使用者被培养出来。在加利福尼亚，“学徒”项目被用于一些原始语言。学徒项目的志愿者和当地还在生活的原始本地美国人结伴而行，一起学习传统语言和技能，比如通过已经濒危的语言的指导下来编篮子。经过300小时的学习，他们已经逐渐流利地将语言交给了下一代人。但是Mufwene说防止语言消失并不是每天使用这门语言。“保护语言就像保存罐子的苹果一样。”
 
 However, preservation can bring a language back from the dead. There are examples of languages that survived in written form and then been revived by later generations. But a written form is essential for this, so the mere possibility of revival has led many speakers of endangered languages to develop systems of writing where none existed before.
+
+然而，保留语言有可能让语言同样消失。有许多例子表明语言可以用书写的形式保留下来并由接下来的几代人振兴。但是必须要有书面形式，所以让还能说濒危语言的使用者创造出一种书写形式，而且这种书写形式还与其他语言的书写方式不同的情况是不太现实的。
