@@ -24,4 +24,8 @@ In 1993, Dr Laver and his colleagues published a survey of 289 Sydney people who
 
 According to the Australian Journal of Public Health, 18% of patients visiting alternative therapists do so because they suffer from musculo-skeletal complaints; 12% suffer from digestive problem, which is only 1% more than those suffering from emotional problems. Those suffering from respiratory complaints represent 7% of their patients, and candida sufferers represents an equal percentage. Headache sufferers and those complaining of general ill health represent 6% and 5% of patients respectively, and a further 4% see therapists for general health maintenance.
 
+根据澳大利亚公共健康杂志的报道，18%的病人之所以选择中医治疗是因为他们经受着肌肉和骨骼的痛苦；12%的病人则有消化系统疾病，而只有1%的病人有情绪方面的问题。7%的病人则会有呼吸系统问题，念珠菌感染则由同样多的人群。6%和5%的病人则分别有头疼和其他方面的普通疾病，4%则需要治疗者进行普通的健康维护。
+
 The survey suggested that complementary medicine is probably a better term than alternative medicine. Alternative medicine appears to be an adjunct, sought in time of disenchantment when conventional medicine seems not to offer the answer.
+
+这说明补充的药物可能对中药治疗有更好的疗程。中药更主要的是一种辅助药物，我们要明白，这说明当传统药物没有能力提供方法的时候，我们可以考虑中药。
