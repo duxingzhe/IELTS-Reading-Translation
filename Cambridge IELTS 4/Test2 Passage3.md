@@ -39,3 +39,4 @@ Not only is more of the brain involved in play than was suspected, but it also s
 大脑的发育不仅怀疑和玩有联系，还认为玩可以激发高级认知过程。“很多认知过程需要玩的参与，”Bekoff说。他指出玩通常有许多玩乐同伴的评价，互相作用的想法和特殊信号和规则的运用。他相信玩使得大脑能有更好的运动灵活性并在以后的学习中能有更好的潜力。Gettysburg大学的Stephen Siviy的研究支持了这些观点。Siviy研究了回合制较量如何提高大脑有关刺激和神经细胞生长的化学元素的分泌。他被激活的程度感到惊讶。“玩乐就好像提高了所有的事情，”他说。通过联系大脑那些不会被沟通所激发的区域，玩可以提高创造力。
 
 What might further experimentation suggest about the way children are raised in many societies today? We already know that rat pups denied the chance to play grow smaller brain components and fail to develop the ability to apply social rules when they interact with their peers. With schooling beginning earlier and becoming increasingly exam-orientated, play is likely to get even less of a look-in. Who knows what the result of that will be?
+更多来自现代生活的孩子的研究能说明什么？我们已经知道了，幼鼠因为缺乏玩乐会让大脑变得更小、当他们和他的同伴沟通时对社会秩序的认知变差。当上学的时间变得越来越早，并变得以考试为中心，玩似乎更加被忽视。谁知道结果会是什么？
