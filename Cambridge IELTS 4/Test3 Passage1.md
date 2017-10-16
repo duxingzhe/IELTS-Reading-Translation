@@ -20,6 +20,14 @@ Fan Kaoma
 
 Participants in the Youth Skills Enterprise Initiative Program, Zambia
 
+赞比亚青年技能企业初级课程
+
 Introduction
 
+导言
+
 Although small-scale business training and credit programs have become more common throughout the world, relatively little attention has been paid to the need to direct such opportunities to young people. Even less attention has been paid to children living on the street or in difficult circumstances.
+
+尽管小型企业培训和信用课程在世界中越来越流行，然而提供给年轻人的机会却相当少。甚至给那些街头上的或者是困难处境的孩子的课程。
+
+Over the past nine years, Street Kids International (S.K.I) has been working with partner organizations in Africa, Latin America and India to support the economic lives of street children. The purpose of this paper is to share some of the lessons S.K.I. and our partners have learned.
