@@ -31,3 +31,9 @@ Although small-scale business training and credit programs have become more comm
 尽管小型企业培训和信用课程在世界中越来越流行，然而提供给年轻人的机会却相当少。甚至给那些街头上的或者是困难处境的孩子的课程。
 
 Over the past nine years, Street Kids International (S.K.I) has been working with partner organizations in Africa, Latin America and India to support the economic lives of street children. The purpose of this paper is to share some of the lessons S.K.I. and our partners have learned.
+
+在过去的九年里，街头孩子国际已经在非洲、拉丁美洲和印度开展了合作组织来推动流浪在街头孩子们的经济生活。这篇文章就是来分享街头孩子国际的方法以及我们的伙伴所学得的经验。
+
+Background
+
+Typically, children do not end up on the streets due to a single cause, but to a combination of factors: a dearth of adequately funded schools, the demand for income at home, family breakdown and violence. The street may be attractive to children as a place to find adventurous play and money. However, it is also a place where some children are exposed, with little or no protection, to exploitative employment, urban crime, and abuse.
