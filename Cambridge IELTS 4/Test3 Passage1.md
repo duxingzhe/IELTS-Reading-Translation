@@ -41,3 +41,11 @@ Typically, children do not end up on the streets due to a single cause, but to a
 传统意义而言，孩子不会因为单一的原因而流浪在街头，而是多种因素的综合作用：原来学校的裁撤，家里收入的需求，家庭破灭和家庭暴力。街道就成了孩子获取冒险性娱乐和钱财的地方。然而，这同样是这些孩子暴露于没有保护的地方，参与剥削的劳动、城市犯罪和被虐待。
 
 Children who work on the streets are generally involved in unskilled, labor-intensive tasks which require long hours, such as shining shoes, carrying goods, guarding or washing cars, and informal trading. Some may also earn income through begging, or through theft and other illegal activities. At the same time, there are street children who take pride in supporting themselves and their families and who often enjoy their work. Many children may choose entrepreneurship because it allows them a degree of independence, is less exploitative than many forms of paid employment, and is flexible enough to allow them to participate in other activities such as education and domestic tasks.
+
+那些流落在街头的男孩通常都是没有那么多的技能，而那些劳动密集型的工作则需要长工作时间，比如抛光鞋子，搬运物品，保安或者是洗车，或者是不正式的贸易。有些则可能会通过乞讨，甚至是偷窃或者是其他的非法手段来获取钱财。同时，街头青年通常会以能够养活他们自己和他们的家庭而感到自豪，而且会喜欢他们的工作。许多孩子会选择企业因为它能让青年有效的独立出去，并且能够比其他方法更少剥削，并且更有灵活性，让他们能够参加教育或者是本地的事情。
+
+Street Business Partnerships
+
+S.K.I. has worked with partner organizations in Latin America, Africa and India to develop innovative opportunities for street children to earn income.
+
+* The S.K.I. Bicycle Counter Service first started in the Sudan. Participants in this enterprise were supplied with bicycles, which they used to deliver parcels and messsages, and which they were required to pay for gradually from their wages. A similar program was taken up in Bangalore, India.
