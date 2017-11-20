@@ -46,6 +46,16 @@ Children who work on the streets are generally involved in unskilled, labor-inte
 
 Street Business Partnerships
 
+街头经济伙伴计划
+
 S.K.I. has worked with partner organizations in Latin America, Africa and India to develop innovative opportunities for street children to earn income.
 
+SKI在拉丁美洲、非洲和印度与当地的合作组织为街头青年提供帮助来获得收入。
+
 * The S.K.I. Bicycle Counter Service first started in the Sudan. Participants in this enterprise were supplied with bicycles, which they used to deliver parcels and messsages, and which they were required to pay for gradually from their wages. A similar program was taken up in Bangalore, India.
+
+SKI自行车看管服务是第一个在苏丹建立起来的项目。这个企业的参与者提供自行车，这样它们能运送包裹或者是信件，并从他们的工资中抽取一部分作为押金。在印度班加罗尔地区，一个类似的计划同样被建立起来。
+
+* Another successful project, The Shoe Shine Collective, was a partnership program with Y.W.C.A. in the Dominican Republic. In this project, participants were lent money to purchase shoe shine boxes. They were alson given a safe place to store their equipment, and facilities for individual savings plan.
+
+* The Youth Skills Enterprise Initiative in Zambia is joint program with the Red Cross Society and the Y.W.C.A street youths are supported to start their own small business through business training, life skills training and access to credit.
