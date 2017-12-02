@@ -58,4 +58,18 @@ SKI自行车看管服务是第一个在苏丹建立起来的项目。这个企�
 
 * Another successful project, The Shoe Shine Collective, was a partnership program with Y.W.C.A. in the Dominican Republic. In this project, participants were lent money to purchase shoe shine boxes. They were alson given a safe place to store their equipment, and facilities for individual savings plan.
 
+* 另外一个成功的项目，鞋子抛光项目，是在多米尼克共和国与青年合作组织的伙伴项目。在这个计划当中，参与者可以借到部分的钱来买到鞋子抛光用品。他们同样会提供一个安全的地方来放置他们的用具，并能帮助他们建立省钱计划。
+
 * The Youth Skills Enterprise Initiative in Zambia is joint program with the Red Cross Society and the Y.W.C.A street youths are supported to start their own small business through business training, life skills training and access to credit.
+
+* 在赞比亚的青年技能企业启动计划是一项和当地红十字会一起创建的项目，街头青年通过企业培训、生活技能培训和获取信用来让他们创业。
+
+Lessons learned
+
+The following lessons have emerged from the programs that S.K.I and partner organisations have created.
+
+* Being an entrepreneur is not for everyone, nor for every street child. Ideally, potential participants will have been involved in the organisation's programs for at least six months, and trust and relationship-building will have already been established.
+
+* The involvement of the participants has been essential to the development of relevant programs. When children have had a major role in determining procedures, they are more likely to abide by and enforce them.
+
+* It is critical for all loans to be linked to training programs that include the development of basic business and life skills.
