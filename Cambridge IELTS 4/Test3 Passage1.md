@@ -66,10 +66,24 @@ SKI自行车看管服务是第一个在苏丹建立起来的项目。这个企�
 
 Lessons learned
 
+经验教训
+
 The following lessons have emerged from the programs that S.K.I and partner organisations have created.
+
+以下便是从街头男孩启动计划和合作组织发展的项目中得到的经验和教训。
 
 * Being an entrepreneur is not for everyone, nor for every street child. Ideally, potential participants will have been involved in the organisation's programs for at least six months, and trust and relationship-building will have already been established.
 
+不是所有的人的都能做企业家，同样不适合所有的街头男孩。理想的情况下，潜在的参与者至少要参与组织者的项目至少六个月，这样信任和伙伴关系才能建立起来。
+
 * The involvement of the participants has been essential to the development of relevant programs. When children have had a major role in determining procedures, they are more likely to abide by and enforce them.
 
+参与者的互动是开发相关项目的必备因素。当孩子们在生产生活中有了主导的地位，他们将会更加依赖这些项目，并让项目更有活力。
+
 * It is critical for all loans to be linked to training programs that include the development of basic business and life skills.
+
+所有项目的投资都要包含基本的商业活动和生活能力，这样才是最重要的。
+
+* There are tremendous advantages to involving parents or guardians in the program, where such relationship exist. Home visits allow staff the opportunity to know where the participants live, and to understand more about each individual's situation.
+
+* Small loan are provided initialy for purchasing fixed assets such as bicyles, shoe shine kits and basic building materials for a market stall. As the entrepreneurs gain experience, the enterprises can be gradually expanded and consideration can be given to increasing loan amounts. The loan amounts in S.K.I programs have generally ranged from US$30-$100.
