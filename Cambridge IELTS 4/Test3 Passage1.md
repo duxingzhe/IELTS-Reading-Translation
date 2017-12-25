@@ -86,4 +86,14 @@ The following lessons have emerged from the programs that S.K.I and partner orga
 
 * There are tremendous advantages to involving parents or guardians in the program, where such relationship exist. Home visits allow staff the opportunity to know where the participants live, and to understand more about each individual's situation.
 
+让父母和监管者参与到项目中来非常有必要，这能让关系一直保持下去。家访让员工有机会知道参与者在哪里生活，并明白每个参与者的具体情况。
+
 * Small loan are provided initialy for purchasing fixed assets such as bicyles, shoe shine kits and basic building materials for a market stall. As the entrepreneurs gain experience, the enterprises can be gradually expanded and consideration can be given to increasing loan amounts. The loan amounts in S.K.I programs have generally ranged from US$30-$100.
+
+小额贷款起初是用于购买固定资产，比如自行车、鞋子抛光用具和基本货架的建筑材料。当企业家们逐渐获得了经验，企业得到发展就可以获得多一些贷款额度。S.K.I项目的贷款额度主要在30-100美元。
+
+* All S.K.I programs have charged interest on the loans, primarily to get the entrepreneurs used to the concept of paying interest on borrowed money. Generally the rates have been modest (lower than bank rates).
+
+Conclusion
+
+There is a need to reconise the importance of access to credit for improvished young people seeking to fulfil economic needs. The provision of small loans to support the entrepreneurial dreams and ambitions of youth can be an effective means to help them change their lives. However, we believe that credit must be extended in association with other types of support that help participants develop critical life skills as well as productive business.
