@@ -94,6 +94,12 @@ The following lessons have emerged from the programs that S.K.I and partner orga
 
 * All S.K.I programs have charged interest on the loans, primarily to get the entrepreneurs used to the concept of paying interest on borrowed money. Generally the rates have been modest (lower than bank rates).
 
+所有的SKI项目贷款都是需要付利息的，基本上就是让企业家通过借款支付利息的概念来维持。通常情况下利率都很低（低于银行利率）。
+
 Conclusion
 
-There is a need to reconise the importance of access to credit for improvished young people seeking to fulfil economic needs. The provision of small loans to support the entrepreneurial dreams and ambitions of youth can be an effective means to help them change their lives. However, we believe that credit must be extended in association with other types of support that help participants develop critical life skills as well as productive business.
+结论
+
+There is a need to recognise the importance of access to credit for impoverished young people seeking to fulfil economic needs. The provision of small loans to support the entrepreneurial dreams and ambitions of youth can be an effective means to help them change their lives. However, we believe that credit must be extended in association with other types of support that help participants develop critical life skills as well as productive business.
+
+让贫穷的青年寻找到某种机会去满足自己的经济需求是非常重要的。提供小额贷款来帮助青年人支持他们的企业家梦想和雄心壮志是一个非常有效的方法来帮助他们改变生活。但是，我们相信机会必须要扩展一下，以便提供其他形式的帮助来让参与者获得更重要的生存技能和富有成效的生意。
