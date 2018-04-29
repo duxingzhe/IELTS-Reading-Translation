@@ -10,7 +10,9 @@ Volcanoes are the ultimate earth-moving machinery. A violent eruption can blow t
 
 火山是地球运动的最强表现。一次强烈的喷发可以让火焰冲到，扩散的火山灰喷射到几千米之外，那些石头碎片抛向了平流层使得陆地的天空灰蒙蒙一片。
 
-But the classic eruption - cone-shaped mountain, big bang, mushroom cloud and surges of molten lava - is only a tiny part of a global story. Vulcanism, the name tinents, raised mountain chains, constructed islands and shaped the topography of the earth. The entire ocean floor has a basement of volcanic basalt.
+But the classic eruption - cone-shaped mountain, big bang, mushroom cloud and surges of molten lava - is only a tiny part of a global story. Vulcanism, the name given to volcanic process, really has shaped the world. Eurption have rifted continents, raised mountain chains, constructed islands and shaped the topography of the earth. The entire ocean floor has a basement of volcanic basalt.
+
+但是普通的爆发——圆锥体的高山、大爆炸、蘑菇云和剧烈涌出液体岩浆——只不过是世界故事的一部分而已。岩石火成论者，将大自然的形成归功于火山运动的理论，确实造就了大自然的形态。喷发提升了陆地，产生了山脉，创造了岛屿，并形成了地球如今的结构。整个海洋架都在火山形成的玄武岩之上。
 
 Volcanoes have not only made the continents, they are also thought to have made the world's first stable atmosphere and provoided all the water for the oceans, rivers and ice-caps. There are now about 600 active volcanoes. Every year they add two or three cubic kilometres of rock to the continents. Imagine a similar number of volcanoes smoking away for the last 3,500 million years. That is enough rock to explain the continental crust.
 
