@@ -8,7 +8,7 @@ When Mount Pinatubo suddenly erupted on 9 June 1991, the power of volcanoes past
 
 Volcanoes are the ultimate earth-moving machinery. A violent eruption can blow the top few kilometres off a mountain, scatter fine ash practically all over over the globe and hurl rock fragments into the stratoshpere to darken the skies a continent away.
 
-火山是地球运动的最强表现。一次强烈的喷发可以让火焰冲到，扩散的火山灰喷射到几千米之外，那些石头碎片抛向了平流层使得陆地的天空灰蒙蒙一片。
+火山是地球运动的最强表现。一次强烈的喷发可以让火焰冲到地表以上千米外的高空，扩散的火山灰喷射到几千米之外，那些石头碎片抛向了平流层使得陆地的天空灰蒙蒙一片。
 
 But the classic eruption - cone-shaped mountain, big bang, mushroom cloud and surges of molten lava - is only a tiny part of a global story. Vulcanism, the name given to volcanic process, really has shaped the world. Eurption have rifted continents, raised mountain chains, constructed islands and shaped the topography of the earth. The entire ocean floor has a basement of volcanic basalt.
 
