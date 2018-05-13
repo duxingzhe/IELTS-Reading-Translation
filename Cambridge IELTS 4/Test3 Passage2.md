@@ -19,3 +19,5 @@ Volcanoes have not only made the continents, they are also thought to have made 
 火山不仅造就了大陆，还被认为造就了地球早期的稳定大气环境并提供了海洋、河流、冰层所有的水分。现在，人们认为还有600座火山处于活动状态。每一年他们会将2、3立方米的岩石带到大陆上。想象一下，350万年间，类似数量的火山持续不断地喷发到大陆上。这也解释了大陆地壳那么多石块是从何而来的。
 
 What come out of volcanic craters is mostly gas. More than 90% of this gas is water vapour from the deep earth: enough to explain, over 3,500 million years, the water in the oceans. The rest of the gas is nitrogen, carbon  dioxide, sulphur dioxide, methane, ammonia and hydrogen. The quantity of these gases, again multiplied over 3,500 million years, is enough to explain the mass of the world's atmosphere. We are alive because volcanoes provided the soil ,air and water we need.
+
+Geologists consider the earth as having a molten core, surrounded by a semi-molten mantle and a brittle, outer skin. It helps to think of a soft-boiled  egg with a runny during boiling, the white material bubbles out and sets like a tiny mountain chain over the crack - like an archipelago of volcanic such as the Hawaiian Islands. But the earth is so much bigger and the mantle below is so much hotter.
