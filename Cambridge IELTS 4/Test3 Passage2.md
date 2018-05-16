@@ -23,3 +23,5 @@ What come out of volcanic craters is mostly gas. More than 90% of this gas is wa
 从火山口中喷出的大部分是气体。多达90%的气体中含有来自地球深层的水蒸气——可以很好的解释，大约在3.5亿年前，这些水组成了海洋。气体的其他部分还有氮气，二氧化碳，二氧化硫，甲烷，氨气和氢气。随着3.5亿年前的反复积累，这些气体的数量足够形成当今地球中的大气。我们能够生存，就是因为火山提供了我们所需要的土壤，空气和水。
 
 Geologists consider the earth as having a molten core, surrounded by a semi-molten mantle and a brittle, outer skin. It helps to think of a soft-boiled  egg with a runny during boiling, the white material bubbles out and sets like a tiny mountain chain over the crack - like an archipelago of volcanic such as the Hawaiian Islands. But the earth is so much bigger and the mantle below is so much hotter.
+
+地理学家认为地球就像一个有一个容颜的核心，这个核心被半融化状态的表面覆盖，而且这个覆盖物很容易碎。如果把它比作成一个在沸水中煮热的半熟鸡蛋那样就会比较好理解。白色的蛋清从破碎的地方流出，并在裂缝中形成一个类似于山脉一样的形状——就想夏威夷群岛那样的火山岛。但是地球远比鸡蛋要大，而且那些岩浆会更热。
