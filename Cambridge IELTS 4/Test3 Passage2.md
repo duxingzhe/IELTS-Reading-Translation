@@ -24,7 +24,7 @@ What come out of volcanic craters is mostly gas. More than 90% of this gas is wa
 
 Geologists consider the earth as having a molten core, surrounded by a semi-molten mantle and a brittle, outer skin. It helps to think of a soft-boiled  egg with a runny during boiling, the white material bubbles out and sets like a tiny mountain chain over the crack - like an archipelago of volcanic such as the Hawaiian Islands. But the earth is so much bigger and the mantle below is so much hotter. Even though the mantle rocks are kept solid by overlying pressure, they can still slowly 'flow' like thick treacle. The flow, thought to be in the form of convection currents, is powerful enough to fracture the 'eggshell' of the crust into plates, and keep them bumping and grinding against each other, or even overlapping, at the rate of a few centimeters a year. These fracture zones, where the collisions occur, are where earthquakes happen. And, very often, volcanoes.
 
-地理学家认为地球就像一个有一个容颜的核心，这个核心被半融化状态的表面覆盖，而且这个覆盖物很容易碎。如果把它比作成一个在沸水中煮热的半熟鸡蛋那样就会比较好理解。白色的蛋清从破碎的地方流出，并在裂缝中形成一个类似于山脉一样的形状——就想夏威夷群岛那样的火山岛。但是地球远比鸡蛋要大，而且那些岩浆会更热。
+地理学家认为地球就像一个有一个熔岩的核心，这个核心被半融化状态的表面覆盖，而且这个覆盖物很容易碎。如果把它比作成一个在沸水中煮热的半熟鸡蛋那样就会比较好理解。白色的蛋清从破碎的地方流出，并在裂缝中形成一个类似于山脉一样的形状——就想夏威夷群岛那样的火山岛。但是地球远比鸡蛋要大，而且那些岩浆会更热。尽管这些地幔岩石被上层的压力所控制，但是他们仍然可以像糖浆一样流出。这种流动，被认为是气流形成的一部分，就可以从“蛋壳”里破开，从里面破裂出去流到盘子上，激烈涌出，互相冲击着对方，甚至以每年几厘米的方式覆盖岩石。当碰撞发生时，这些破碎的地带经常会有地震发生。并且，经常还有火山的喷发。
 
 These zones are lines of weakness, or hot spots. Every eruption is different, but put at its simplest, where there are weaknesses, rocks deep in the mantle, heated to 1,350°C, will start to expand and rise. As they do so, the pressure drops, and they expand and become liquid and rise more swiftly.
 
