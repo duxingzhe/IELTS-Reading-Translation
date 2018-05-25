@@ -28,7 +28,7 @@ Geologists consider the earth as having a molten core, surrounded by a semi-molt
 
 These zones are lines of weakness, or hot spots. Every eruption is different, but put at its simplest, where there are weaknesses, rocks deep in the mantle, heated to 1,350°C, will start to expand and rise. As they do so, the pressure drops, and they expand and become liquid and rise more swiftly.
 
-这些地方都是连片的脆弱地带，或者是热点地区。每次喷发都是不同的，但是简单而言，哪儿脆弱，在地壳里的熔岩当加热到1350°C的时候，就会从底部扩张并上升。当他们这么做之后会让压力下降，于是岩浆继续扩张并液化然后上升的更快。
+这些地方都是连片的脆弱地带，或者是热点地区。每次喷发都是不同的，但是简单而言，当某一片地区的岩石比较脆弱的时候，在地壳里的熔岩当加热到1350°C的时候，就会从底部扩张并上升。当他们这么做之后会让压力下降，于是岩浆继续扩张并液化然后上升的更快。
 
 Sometimes it is slow: vast bubbles of magma - molten rock from the mantle - inch towards the surface, cooling slowly, to show through as granite extrusions (as on Skye, or the Great Whin Sill, the lava dyke squeezed out like toothpaste that carries part of Hadrian's Wall in northern England]. Sometimes - as in Northern Ireland, Wales and the Karoo in South Africa - the magma rose faster, and then flowed out horizontally on to the surface in vast thick sheets. In the Deccan plateau in western India, there are more than two million cubic kilometers of lava, some of it 2,400 metes thick, formed over 500,000 years of slurping eruption.
 
