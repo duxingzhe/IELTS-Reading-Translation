@@ -43,3 +43,5 @@ But volcanoes are not very predictable. That is because geological time is not l
 但是火山的喷发却难以捉摸。这是因为地壳的安排不会像人类那样安排的那么有规律。当火山安静的时候，火山山顶会被火山口边缘上覆盖的熔岩圆锥体岩浆覆盖；接着岩浆逐渐冷却凝固变成一个大的、坚硬的、稳定的塞子，这个塞子覆盖在火山口上让岩浆不再喷出。但是如果压力实在无法抵抗，岩浆依旧可以喷出来。皮纳图博火山的喷发就是一个例子，他用了600年完成这一过程。
 
 Then, sometimes, with only a small warning, the mountain blows its top. It did this at Mont Pelee in Martinique at 7.49 a.m. on 8 May, 1902. Of a town of 28,000, only two people survived. In 1815, a sudden blast removed the top 1,280 metres of Mount Tambora in Indonesia. The eruption was so fierce that dust thrown into the stratosphere darkened the skies, cancelling the following summer in Europe and North America. Thousands starved as the harvests failed, after snow in June and frosts in August. Volcanoes are potentially world news, especially the quiet ones.
+
+接着，有时候，只是一次小小的预警，火山的熔浆便冲出山顶。马提尼克的皮里火山在1902年5月8日曾经毫无预警的情况突然喷出。2万8千居民的城镇只有2人幸免于难。1815年，印度尼西亚坦博拉火山的突然喷发，削低了1280米。喷发相当剧烈，以至于火山灰被冲到了平流层，让天空黯然无光，致使北美洲和欧洲的夏天完全没有正常的气候节律。因为食物短缺，很多人饿死，六月飞雪，八月就进入严寒。火山一直都是潜在的世界新闻头条，特别是死火山。
