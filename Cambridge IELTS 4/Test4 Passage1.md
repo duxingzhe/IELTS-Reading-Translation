@@ -19,3 +19,5 @@ Identifying genetically talented individuals is only the first step. Michael Yes
 发现有天赋的运动员只不过是第一步。迈克尔 Yessis是一位退休加利福尼亚州立大学的运动科学的教授，现居富尔顿。他说基因因素只能决定运动员三分之一的因素。但是如果有了更好的训练方法，我们可以做到比三分之一更多的事情。Yessis相信美国跑步运动员在基因上有天赋，使得他们有非常好的成绩。通过更为科学的方法，“他们能做得更好”。这些方法包括在跑步活动和肌肉增强训练的时候提升他们的强度的训练。这是一种曾被苏联人使用的前沿科技。
 
 Whereas most exercises are designed to build up strength or endurance, plyometrics focuses on increasing power — the rate at which an athlete can expend energy. When a sprinter runs, Yessis explains, her foot stays in contact with the ground for just under a tenth of a second, half of which is devoted to landing and the other half to pushing off.Plyometric exercises help athletes make the best use of this brief interval.
+
+许多测试都是注重强调强度和耐力，肌肉增强训练主要关注增强力量——运动员如何快速释放力量。Yessis解释道，冲刺运动员在跑步的时候，他的脚接触地面的时间只有一秒，脚的一半在地上另一半则开始冲刺。肌肉增强训练帮助运动员充分利用好这一个短暂的间隙。
