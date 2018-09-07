@@ -23,3 +23,5 @@ Whereas most exercises are designed to build up strength or endurance, plyometri
 许多测试都是注重强调强度和耐力，肌肉增强训练主要关注增强力量——运动员如何快速释放力量。Yessis解释道，冲刺运动员在跑步的时候，他的脚接触地面的时间只有一秒，脚的一半在地上另一半则开始冲刺。肌肉增强训练帮助运动员充分利用好这一个短暂的间隙。
 
 Nutrition is another area that sports trainers have failed to address adequately. 'Many athletes are not getting the best nutrition, even through supplements,' Yessis insists. Each activity has its own nutritional needs. Few coaches, for instance, understand how deficiencies in trace minerals can lead to injuries.
+
+营养是运动训练者另一个所忽视的领域。“许多运动员并没有获得最好的营养，就算是充分的补充也不能获得最好的营养。”Yessis坚称。每一项活动都有他自己的专门的营养需求。就比如说，很少有教练知道如何关心那些会导致损伤的微量元素。
