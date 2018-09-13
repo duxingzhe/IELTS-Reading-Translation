@@ -27,3 +27,5 @@ Nutrition is another area that sports trainers have failed to address adequately
 营养是运动训练者另一个所忽视的领域。“许多运动员并没有获得最好的营养，就算是充分的补充也不能获得最好的营养。”Yessis坚称。每一项活动都有他自己的专门的营养需求。就比如说，很少有教练知道如何关心那些会导致损伤的微量元素。
 
 Focused training will also play a role in enabling records to be broken. "If we applied the Russian training model to some of the outstanding runners we have in this country," Yessis asserts, "they would be breaking records left and right". He will not predict by how much, however: "Exactly what the limits are its hard to say, but there will be increases even if only by hundredths of a second, as long as our training continues to improve."
+
+把精力放在训练上同样能在打破记录上发挥重要作用。“如果我们把俄罗斯训练一些优秀运动员的训练方法用在我们身上，”Yessis教授说，“我们能更加轻松地突破记录。”他并没有预测能有多少，然而：“能进步多少不好说，但是进步百分之一秒都是好的，致我们的训练方法持续改进。”
