@@ -30,4 +30,6 @@ Focused training will also play a role in enabling records to be broken. "If we 
 
 把精力放在训练上同样能在打破记录上发挥重要作用。“如果我们把俄罗斯训练一些优秀运动员的训练方法用在我们身上，”Yessis教授说，“我们能更加轻松地突破记录。”他并没有预测能有多少，然而：“能进步多少不好说，但是进步百分之一秒都是好的，只要我们的训练方法持续改进。”
 
-One of the most important new methodologies is biomechanics, the study of the body in motion. A biomechanics films an athlete in action and then digitizes her performance,recording the motion of every joint and limb in three dimensions. By applying Newton’s laws to these motions, ‘we can say that this athlete’s run is not fast enough; that this one is not using his arms strongly enough during take-off,’ says Dapena, who uses these methods to help high jumpers. To date, however, biomechan- ics has made only a small difference to athletic performance.
+One of the most important new methodologies is biomechanics, the study of the body in motion. A biomechanics films an athlete in action and then digitizes her performance,recording the motion of every joint and limb in three dimensions. By applying Newton’s laws to these motions, ‘we can say that this athlete’s run is not fast enough; that this one is not using his arms strongly enough during take-off,’ says Dapena, who uses these methods to help high jumpers. To date, however, biomechanics has made only a small difference to athletic performance.
+
+其中一种最重要的新科技是生物力学，在运动中的时候，身体的变化的研究。生物力学录像记录了一位运动员的动作，并用数字化方式呈现她的运动过程，记录每一个关节的运动状态并用三维方式呈现。运用牛顿的三大定律，“我们可以说这个运动员跑的仍然不够快；这一位运动员在起跑的时候还没有用尽臂力。”Dapena说，他将这些方法用于帮助跳高运动员。但是到目前为止，生物力学对于运动员的进步微乎其微。
