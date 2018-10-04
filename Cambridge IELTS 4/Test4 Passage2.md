@@ -1,0 +1,5 @@
+The Nature and Aims of Archaeology
+
+Archaeology is partly the discovery of the treasures of the past, partly the careful work of the scientific analyst, partly the exercise of the creative imagination. It is toiling in the sun on an excavation in the Middle-East, it is working with living Inuit in the snows of Alaska, and it is investigating the sewers of Roman Britain. But it is also the painstaking task of interpretation, so that we come to understand what these things mean for the human story. And it is the conservation of the world's cultural heritage against looting and careless harm.
+
+Archaeology, then, is both a physical activity out in the field, and an intellectual pur-suit in the study or laboratory. That is part of its great attraction. The rich mixture of dan-ger and detective work has also made it the perfect vehicle for fiction writers and film-makers, from Agatha Christie with Murder in Mesopotamia to Stephen Spielberg with Indiana Jones. However far from reality such portrayals are, they capture the essential truth that archaeology is an exciting quest — the quest for knowledge about ourselves and our past.
