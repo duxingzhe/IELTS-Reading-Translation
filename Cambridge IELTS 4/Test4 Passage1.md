@@ -39,3 +39,5 @@ Revolutionary ideas still come from the athletes themselves. For example, during
 革命性的观点依然是来自于运动员本身。比如，在1968年的墨西哥奥运会，一个相当不出名的跳高运动员Dick Fosbury通过后背跳的方式获得了金牌，这完全与之前的跳高方法不同。于是被立刻命名为背越式跳高。Fosbury自己并不知道他在做啥。之后为了分析其潜在的道理，生物力学专家开始用数学模型来分析其背后的复杂而超乎平常的道理。。Fosbury同样要求满足其他要素，这些要素依赖于许多运动员表现的进步之处：对运动设备的创新。在Fosbury的案例中，垫子是跳高者落地的位置。通常情况下，跳高运动员都是落在铺满木屑的地方。但是自Fosbury开始，木屑被软棉垫代替，对于背越式跳高非常有帮助。
 
 In the end, most people who examination human performance are humbled by the resourcefulness of athletes and the powers of the human body. ‘Once you study athletics,you learn that it’s a vexingly complex issue,’ says John S. Raglin, a sports psychologist at Indiana University. ‘Core performance is not a simple of mundane thing of higher, faster,longer. So many variables enter into the equation, and our understanding in many cases is fundamental. We’ve got a long way to go.’ For the foreseeable future, records will be made to be broken.
+
+最后，许多研究人类运动的科学家都对运动员所获得的资源和人体内在潜力感到震惊。“一旦你开始学习运动学，你会发现这是一个非常复杂的问题。”在印第安纳大学的运动心理学教授Jhon S. Raglin说。“核心的表现不只是平时我们说的更快、更高、更强。因此是有很多因素在互相作用，我们目前的很多认知也只是基础的。我们有很长的路要走。”在可预见的未来，记录有可能还是会被打破。
