@@ -11,3 +11,5 @@ Archaeology, then, is both a physical activity out in the field, and an intellec
 接着，考古学主要是在一块区域的物理活动和在实验室或者是研究室里的智力活动。这一部分是因为他需要专注力。危险性和细致入微的调查工作让考古学成为了科幻小说家和电影制片人灵感的完美源泉。从Agatha Christie的《美索不达米亚谋杀案》到史蒂芬·斯皮尔伯格的《印地安纳・琼斯》系列。但是真实的考古工作却没有电影那么精彩，考古学最精彩的是发觉真相——从中发现我们的自身和过去。
 
 But how does archaeology relate to disciplines such as anthropology and history, that are also concerned with the human story? Is archaeology itself a science? And what are the responsibilities of the archaeologist in today’s world?
+
+但是考古学家如何拥有像人类学和历史学那样的教条呢？也就是说，是否能像人类学和历史学那样专注人类的传说呢？考古学能称之为科学吗？在当今社会，考古学的责任又是什么。
