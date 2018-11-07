@@ -20,4 +20,6 @@ Anthropology, at its broadest, is the study of humanity — our physical charact
 
 Physical anthropology, or biological anthropology as it is also called, concerns the study of human biological or physical characteristics and how they evolved. Cultural anthropology — or social anthropology — analyses human culture and society. Two of its branches are ethnography (the study at first hand of individual living cultures) and ethnology (which sets out to compare cultures using ethnographic evidence to derive general principles about human society). 
 
+人类个体学或者叫生物个体学，正如他所说的那样，关注人类生物或者物理特征，以及它们是如何进化的——或者叫社会个体学——分析人类文化和社会。他有两个分支，人种论（研究个体生活结构的第一手资料）和人种学（用人种学的证据得到普世价值来比较人类社会文化）。
+
 Archaeology is the ‘past tense of culture anthropology’. Whereas cultural anthropolo-gists will often base their conclusions on the experience of living within contemporary communities, archaeologists study past societies primarily through their material remains— the buildings, tools and other artefacts that constitutes what is known as the material culture left over from former societies.
