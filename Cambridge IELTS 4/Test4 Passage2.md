@@ -22,6 +22,8 @@ Physical anthropology, or biological anthropology as it is also called, concerns
 
 人类个体学或者叫生物个体学，正如他所说的那样，关注人类生物或者物理特征，以及它们是如何进化的——或者叫社会个体学——分析人类文化和社会。他有两个分支，人种论（研究个体生活结构的第一手资料）和人种学（用人种学的证据得到普世价值来比较人类社会文化）。
 
-Archaeology is the ‘past tense of culture anthropology’. Whereas cultural anthropolo-gists will often base their conclusions on the experience of living within contemporary communities, archaeologists study past societies primarily through their material remains— the buildings, tools and other artefacts that constitutes what is known as the material culture left over from former societies.
+Archaeology is the ‘past tense of culture anthropology’. Whereas cultural anthropologists will often base their conclusions on the experience of living within contemporary communities, archaeologists study past societies primarily through their material remains— the buildings, tools and other artefacts that constitutes what is known as the material culture left over from former societies.
+
+考古学研究着文化的过去式。文化人类学家将经常基于他们在同时代的社区的生活经验来得出研究结论，考古学通常通过遗留的文字材料来研究社会的主要内容——建筑、工具和其他在之前社会中遗留下来的工艺品。
 
 Nevertheless, one of the most important tasks for the archaeologist today is to know how to interpret material culture in human terms. How were those pots used? Why are some dwellings round and others square? Here the methods of archaeology and ethno-graphy overlap. Archaeologists in recent decades have developed ‘ethnography’, where,like ethnographers, they live among contemporary communities, but with the specific purpose of learning how such societies use material culture — how they make their tools and weapons, why they build their settlements where they do, and so on. Moreover,archaeology has an active role to play in the field of conservation. Heritage studies con-stitutes a developing field, where it is realized that the world’s cultural heritage is a diminishing resource which holds different meanings for different people.
