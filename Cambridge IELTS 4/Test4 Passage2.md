@@ -27,3 +27,5 @@ Archaeology is the ‘past tense of culture anthropology’. Whereas cultural an
 考古学研究着文化的过去式。文化人类学家将经常基于他们在同时代的社区的生活经验来得出研究结论，考古学通常通过遗留的文字材料来研究社会的主要内容——建筑、工具和其他在之前社会中遗留下来的工艺品。
 
 Nevertheless, one of the most important tasks for the archaeologist today is to know how to interpret material culture in human terms. How were those pots used? Why are some dwellings round and others square? Here the methods of archaeology and ethno-graphy overlap. Archaeologists in recent decades have developed ‘ethnography’, where,like ethnographers, they live among contemporary communities, but with the specific purpose of learning how such societies use material culture — how they make their tools and weapons, why they build their settlements where they do, and so on. Moreover,archaeology has an active role to play in the field of conservation. Heritage studies con-stitutes a developing field, where it is realized that the world’s cultural heritage is a diminishing resource which holds different meanings for different people.
+
+无论如何，时至今日，考古学目前所要解决的一个重要问题便是如何用现代人的语言将当年物质文明进行解读。这些点是什么意思？有些住所是圆的，而另外一些是方的？这些理论都是考古学和古人物学重合的部分。
