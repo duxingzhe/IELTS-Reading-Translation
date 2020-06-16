@@ -31,3 +31,6 @@ Nevertheless, one of the most important tasks for the archaeologist today is to 
 无论如何，时至今日，考古学目前所要解决的一个重要问题便是如何用现代人的语言将当年物质文明进行解读。这些点是什么意思？有些住所是圆的，而另外一些是方的？这些理论都是考古学和古人物学重合的部分。在近些年来，考古学家延伸出了人种学家，也就是人种学，这个学科主要是研究同一时期的不同人种部落，并且去研究他们如何使用材料进行何种目的的用途——他们怎么制作工具和武器，他们为什么要如此建设自己的房子等问题。更重要的是，建筑学同样在这一领域扮演着重要角色。研究遗迹被认为是一个前景广阔的领域，因为它意味着文物古迹是一种正在消失的物品，他对不同的人有不同的感触。
 
 If, then archaeology deals with the past, in what way does it differ from history? In the broadest sense, just as archaeology is an aspect of anthropology, so too is it a part of history — where we mean the whole history of humankind from its beginnings over three million years ago. Indeed, for more than ninety-nine percent of that huge span of time, archaeology — the study of past material culture — is the only significant source of information. Conventional historical sources begin only with the introduction of written records around 3000 BC in western Asia, and much later in most other parts of the world.
+
+如果，考古学是为了研究过去，那么他和历史学又有什么不同呢？从广义上来讲，考古学只是人类学的一个方面，所以他就是历史的一部分——意思就是从整个历史的起源开始，横跨300万年之久。确实，相对于浩瀚的历史长河，99%的时间近乎空白，考古学——这门研究着过去物料文化的学科——成了过去信息的唯一来源。传统的历史信息只来自于在西亚地区中记录于公元3000年的文字记录，而世界的其他地区而言，有文字记载的历史却更晚。
+
