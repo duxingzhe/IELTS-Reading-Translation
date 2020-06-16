@@ -34,3 +34,4 @@ If, then archaeology deals with the past, in what way does it differ from histor
 
 如果，考古学是为了研究过去，那么他和历史学又有什么不同呢？从广义上来讲，考古学只是人类学的一个方面，所以他就是历史的一部分——意思就是从整个历史的起源开始，横跨300万年之久。确实，相对于浩瀚的历史长河，99%的时间近乎空白，考古学——这门研究着过去物料文化的学科——成了过去信息的唯一来源。传统的历史信息只来自于在西亚地区中记录于公元3000年的文字记录，而世界的其他地区而言，有文字记载的历史却更晚。
 
+A commonly drawn distinction is between pre-history, i.e. the period before written records — and history in the narrow sense, meaning the study of the past using written evidence. To archaeology, which studies all cultures and periods, whether with or without writing, the distinction between history and pre-history is a convenient dividing line that recognizes the importance of the written word, but in no way lessens the importance of the useful information contained in oral histories.
